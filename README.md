@@ -17,6 +17,4 @@
 ## Изучены:
 - Адаптивный интерфейс для разных устройств.
 
-Ссылка на проект: https://prosviuliia.github.io/russian-travel-pr3/
-
-Ссылка на github: https://github.com/ProsVIuliia/russian-travel-pr3.git
+Ссылка на проект: https://prosviuliia.github.io/travel-russian-pr3/
